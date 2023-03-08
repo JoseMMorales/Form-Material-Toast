@@ -1,0 +1,43 @@
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+
+section {
+  display: grid;
+  place-items: center;
+  align-items: center;
+  height: 100vh;
+
+  mat-card {
+    max-width: 350px;
+    padding: 55px;
+
+    mat-card-title {
+      display: flex;
+      justify-content: space-around;
+      font-size: 2em;
+
+      h1 {
+        font-weight: bold;
+        font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+          "Lucida Sans", Arial;
+      }
+    }
+
+    mat-card-content {
+      width: 100%;
+
+      .form-container {
+        display: flex;
+        flex-direction: column;
+
+        mat-form-field {
+          padding-bottom: 10px;
+        }
+
+        .mat-raised-button {
+          width: 100%;
+          margin-top: 20px;
+        }
+      }
+    }
+  }
+}

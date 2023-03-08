@@ -1,27 +1,58 @@
-# Jenkins
+### **Material Contact Form with Toast**
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.8.
+Example of material contact form which is able to get parameters entered by the user, when the send button is clicked suddenly, it appears a toast message to see the output on the top side of the screen
 
-## Development server
+### **Ngneat HOT TOAST...**
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Best Toast in town!! Smoking hot react notifications
 
-## Code scaffolding
+[REACH OUT HOT TOAST](https://ngneat.github.io/hot-toast/)</br>
+[GITHUB REPO](https://github.com/ngneat/hot-toast)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+#### **NG Install:** `ng add @ngneat/hot-toast`
 
-## Build
+#### **NPM Install:** `npm install @ngneat/overview @ngneat/hot-toast`
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+</br>
 
-## Running unit tests
+#### **Import HotToastHotModule...**
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+<img width="357" alt="toast" src="https://user-images.githubusercontent.com/43299285/223405415-5c6db362-cef5-4fd7-b13e-ce672fb5eb62.PNG">
 
-## Running end-to-end tests
+</br>
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+### **Features...**
 
-## Further help
+- 🔥 Hot by default
+- ☕ Easy to use
+- 🐍 Snack bar variation
+- ♿ Accessible
+- 🖐️ Reduce motion support
+- 😊 Emoji Support
+- 🛠 Customizable
+- ⏳ Observable API
+- ✋ Pause on hover
+- 🔁 Events
+- 🔒 Persistent
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+</br>
+
+### **HOT TOAST in contact form...**
+
+<img width="302" alt="Contact form" src="https://user-images.githubusercontent.com/43299285/223408529-560de827-531a-4e13-9886-ad0c369184fa.PNG">
+
+</br>
+
+### **Material Modules used...**
+
+[MatFormFieldModule](https://material.angular.io/components/form-field/api), [MatCardModule](https://material.angular.io/components/card/api), [MatInputModule](https://material.angular.io/components/input/api), [MatButtonModule](https://material.angular.io/components/button/api),
+
+### **Clone this form...**
+
+- `git clone https://github.com/JoseMMorales/Form-Material-Toast.git`
+- `cd Form-Material-Toast`
+- `code .` if using VSCode
+
+### **Author**
+
+JoseMMorales
