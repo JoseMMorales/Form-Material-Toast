@@ -17,7 +17,7 @@ Best Toast in town!! Smoking hot react notifications
 
 #### **Import HotToastHotModule...**
 
-<img width="357" alt="toast" src="https://user-images.githubusercontent.com/43299285/223405415-5c6db362-cef5-4fd7-b13e-ce672fb5eb62.PNG">
+<img width="557" alt="toast" src="https://user-images.githubusercontent.com/43299285/223405415-5c6db362-cef5-4fd7-b13e-ce672fb5eb62.PNG">
 
 </br>
 
@@ -39,7 +39,7 @@ Best Toast in town!! Smoking hot react notifications
 
 ### **HOT TOAST in contact form...**
 
-<img width="302" alt="Contact form" src="https://user-images.githubusercontent.com/43299285/223408529-560de827-531a-4e13-9886-ad0c369184fa.PNG">
+<img width="502" alt="Contact form" src="https://user-images.githubusercontent.com/43299285/223408529-560de827-531a-4e13-9886-ad0c369184fa.PNG">
 
 </br>
 
